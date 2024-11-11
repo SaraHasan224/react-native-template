@@ -25,17 +25,17 @@ To get started, clone this repository and set up the project:
    cd MyNewApp
     ```
 
-    Install Dependencies::
+Install Dependencies::
    ```bash
 npm install
+  ```
 Start the Expo Development Server:
-```
 
 ```bash
 expo start
 ```
 
-2## Usage
+2 Usage
 - **Run on Device**: Use the Expo Go app to scan the QR code and run the app on your mobile device.
 - **Run on Emulator**: Launch the app using an iOS or Android emulator from your development environment.
 
